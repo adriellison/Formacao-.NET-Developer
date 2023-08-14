@@ -43,37 +43,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\And\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\And\\Desktop\\Formacao-.NET-Developer\\Conhecendo a Organização de um Programa C#\\Conhecendo a Organização de um Programa C#.csproj",
+      "projectUniqueName": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Conhecendo a Organização de um Programa C#/Conhecendo a Organização de um Programa C#.csproj",
       "projectName": "Conhecendo a Organização de um Programa C#",
-      "projectPath": "C:\\Users\\And\\Desktop\\Formacao-.NET-Developer\\Conhecendo a Organização de um Programa C#\\Conhecendo a Organização de um Programa C#.csproj",
-      "packagesPath": "C:\\Users\\And\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\And\\Desktop\\Formacao-.NET-Developer\\Conhecendo a Organização de um Programa C#\\obj\\",
+      "projectPath": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Conhecendo a Organização de um Programa C#/Conhecendo a Organização de um Programa C#.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Conhecendo a Organização de um Programa C#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\And\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\And\\Desktop\\Formacao-.NET-Developer\\Conhecendo a Organização de um Programa C#\\ExemploFundamentos.Common\\Project02.csproj": {
-              "projectPath": "C:\\Users\\And\\Desktop\\Formacao-.NET-Developer\\Conhecendo a Organização de um Programa C#\\ExemploFundamentos.Common\\Project02.csproj"
+            "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Conhecendo a Organização de um Programa C#/ExemploFundamentos.Common/Project02.csproj": {
+              "projectPath": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Conhecendo a Organização de um Programa C#/ExemploFundamentos.Common/Project02.csproj"
             },
-            "C:\\Users\\And\\Desktop\\Formacao-.NET-Developer\\Conhecendo a Organização de um Programa C#\\ExemploFundamentos\\Project01.csproj": {
-              "projectPath": "C:\\Users\\And\\Desktop\\Formacao-.NET-Developer\\Conhecendo a Organização de um Programa C#\\ExemploFundamentos\\Project01.csproj"
+            "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Conhecendo a Organização de um Programa C#/ExemploFundamentos/Project01.csproj": {
+              "projectPath": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Conhecendo a Organização de um Programa C#/ExemploFundamentos/Project01.csproj"
             }
           }
         }
@@ -103,7 +101,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.305/sdk/7.0.305/RuntimeIdentifierGraph.json"
       }
     }
   }

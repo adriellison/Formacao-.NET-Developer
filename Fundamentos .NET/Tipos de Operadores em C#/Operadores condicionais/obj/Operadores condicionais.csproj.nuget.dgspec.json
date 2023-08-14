@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adriellison.ferreira\\Desktop\\Formacao-.NET-Developer\\Fundamentos .NET\\Tipos de Operadores em C#\\Operadores condicionais\\Operadores condicionais.csproj": {}
+    "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Tipos de Operadores em C#/Operadores condicionais/Operadores condicionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adriellison.ferreira\\Desktop\\Formacao-.NET-Developer\\Fundamentos .NET\\Tipos de Operadores em C#\\Operadores condicionais\\Operadores condicionais.csproj": {
+    "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Tipos de Operadores em C#/Operadores condicionais/Operadores condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adriellison.ferreira\\Desktop\\Formacao-.NET-Developer\\Fundamentos .NET\\Tipos de Operadores em C#\\Operadores condicionais\\Operadores condicionais.csproj",
+        "projectUniqueName": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Tipos de Operadores em C#/Operadores condicionais/Operadores condicionais.csproj",
         "projectName": "Operadores condicionais",
-        "projectPath": "C:\\Users\\adriellison.ferreira\\Desktop\\Formacao-.NET-Developer\\Fundamentos .NET\\Tipos de Operadores em C#\\Operadores condicionais\\Operadores condicionais.csproj",
-        "packagesPath": "C:\\Users\\adriellison.ferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adriellison.ferreira\\Desktop\\Formacao-.NET-Developer\\Fundamentos .NET\\Tipos de Operadores em C#\\Operadores condicionais\\obj\\",
+        "projectPath": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Tipos de Operadores em C#/Operadores condicionais/Operadores condicionais.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Tipos de Operadores em C#/Operadores condicionais/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\adriellison.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.305/sdk/7.0.305/RuntimeIdentifierGraph.json"
         }
       }
     }

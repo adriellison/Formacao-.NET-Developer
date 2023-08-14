@@ -1,0 +1,15 @@
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.csproj.AssemblyReference.cache
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.AssemblyInfoInputs.cache
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.AssemblyInfo.cs
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.csproj.CoreCompileInputs.cache
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/bin/Debug/net7.0/Operadores Aritméticos em C#
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/bin/Debug/net7.0/Operadores Aritméticos em C#.deps.json
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/bin/Debug/net7.0/Operadores Aritméticos em C#.runtimeconfig.json
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/bin/Debug/net7.0/Operadores Aritméticos em C#.dll
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/bin/Debug/net7.0/Operadores Aritméticos em C#.pdb
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.dll
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/refint/Operadores Aritméticos em C#.dll
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.pdb
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/Operadores Aritméticos em C#.genruntimeconfig.cache
+/workspaces/Formacao-.NET-Developer/Fundamentos .NET/Operadores Aritméticos em C#/obj/Debug/net7.0/ref/Operadores Aritméticos em C#.dll
