@@ -1,5 +1,0 @@
-C:\Users\And\Desktop\Formacao-.NET-Developer\Conhecendo a Organização de um Programa C#\ExemploFundamentos\obj\Debug\net7.0\Project01.csproj.AssemblyReference.cache
-C:\Users\And\Desktop\Formacao-.NET-Developer\Conhecendo a Organização de um Programa C#\ExemploFundamentos\obj\Debug\net7.0\Project01.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\And\Desktop\Formacao-.NET-Developer\Conhecendo a Organização de um Programa C#\ExemploFundamentos\obj\Debug\net7.0\Project01.AssemblyInfoInputs.cache
-C:\Users\And\Desktop\Formacao-.NET-Developer\Conhecendo a Organização de um Programa C#\ExemploFundamentos\obj\Debug\net7.0\Project01.AssemblyInfo.cs
-C:\Users\And\Desktop\Formacao-.NET-Developer\Conhecendo a Organização de um Programa C#\ExemploFundamentos\obj\Debug\net7.0\Project01.csproj.CoreCompileInputs.cache
