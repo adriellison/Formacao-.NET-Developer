@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Models
+/Fundamentos .NET
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/obj
+/.vs/Formacao-.NET-Developer/FileContentIndex/74ed6bb5-0dfa-42b7-b04f-dbadae7d1451.vsidx
+/.vs/Formacao-.NET-Developer/v17
+/.vs/Formacao-.NET-Developer/v17/.suo
+/.vs/Formacao-.NET-Developer/v17/DocumentLayout.json
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0/1 - Propriedades, Métodos e Construtores com C#.deps.json
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0/1 - Propriedades, Métodos e Construtores com C#.dll
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0/1 - Propriedades, Métodos e Construtores com C#.exe
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0/1 - Propriedades, Métodos e Construtores com C#.pdb
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0/1 - Propriedades, Métodos e Construtores com C#.runtimeconfig.json
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0/Model.dll
+/Explorando a linguagem C#/1 - Propriedades, Métodos e Construtores com C#/bin/Debug/net8.0/Model.pdb
