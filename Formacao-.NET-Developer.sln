@@ -25,7 +25,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Explorando a linguagem C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - Propriedades, Métodos e Construtores com C#", "Explorando a linguagem C#\1 - Propriedades, Métodos e Construtores com C#\1 - Propriedades, Métodos e Construtores com C#.csproj", "{90CA4F7F-6BF6-4153-9570-E56BE1EAD2F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 - Array e Listas em C#", "Fundamentos .NET\7 - Array e Listas em C#\7 - Array e Listas em C#.csproj", "{5A3C5F96-2949-451B-BDD3-3BEC071F2473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7 - Array e Listas em C#", "Fundamentos .NET\7 - Array e Listas em C#\7 - Array e Listas em C#.csproj", "{5A3C5F96-2949-451B-BDD3-3BEC071F2473}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Integrando APIs NET C# com Entity Framework", "05 Integrando APIs NET C# com Entity Framework", "{A07B925D-9490-4D27-A46D-DA0D46DA39AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "Introdução as APIs com C#\01 Introdução as APIs\webapi\webapi.csproj", "{808E1475-4188-4ACA-B314-FEAF52A31F7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,10 @@ Global
 		{5A3C5F96-2949-451B-BDD3-3BEC071F2473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3C5F96-2949-451B-BDD3-3BEC071F2473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3C5F96-2949-451B-BDD3-3BEC071F2473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808E1475-4188-4ACA-B314-FEAF52A31F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808E1475-4188-4ACA-B314-FEAF52A31F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808E1475-4188-4ACA-B314-FEAF52A31F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808E1475-4188-4ACA-B314-FEAF52A31F7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +91,7 @@ Global
 		{F67E2616-E1F9-48B9-AB72-59AB44E82474} = {31531158-C32E-4BFD-A675-396284433339}
 		{90CA4F7F-6BF6-4153-9570-E56BE1EAD2F0} = {6F08DA87-14DD-4028-8A45-44C50147A77B}
 		{5A3C5F96-2949-451B-BDD3-3BEC071F2473} = {31531158-C32E-4BFD-A675-396284433339}
+		{808E1475-4188-4ACA-B314-FEAF52A31F7D} = {A07B925D-9490-4D27-A46D-DA0D46DA39AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {04BD9E65-11C3-41DC-BA7A-C418190B4917}
